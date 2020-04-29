@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a14e6bfc-c713-49ea-b2f7-48c3449948b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/learn/algorithm/Subject_subsets_78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/algorithm/BaHuangHou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/algorithm/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/algorithm/Subject_majorityElement_169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +43,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1b55zaLE6aoVLR7Jrw3MZDZfjeH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
@@ -56,9 +63,9 @@
       <recent name="F:\java\code\leetcode\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Subject_subsets_78">
-    <configuration name="Subject_assign_cookies_455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.Subject_assign_cookies_455" />
+  <component name="RunManager" selected="Application.Subject_majorityElement_169">
+    <configuration name="BaHuangHou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.BaHuangHou" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +77,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subject_subsets_78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.Subject_subsets_78" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subject_majorityElement_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.Subject_majorityElement_169" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subject_n_queens_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.Subject_n_queens_51" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kuhao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.algorithm.kuhao" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Subject_subsets_78" />
-        <item itemvalue="Application.Subject_assign_cookies_455" />
+        <item itemvalue="Application.Subject_majorityElement_169" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.BaHuangHou" />
+        <item itemvalue="Application.Subject_n_queens_51" />
+        <item itemvalue="Application.kuhao" />
       </list>
     </recent_temporary>
   </component>
@@ -102,16 +151,33 @@
       <updated>1587909376370</updated>
       <workItem from="1587909380871" duration="6686000" />
     </task>
+    <task id="LOCAL-00001" summary="LeetCode_#八皇后问题【lsq_0429】">
+      <created>1588147983698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588147983698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LeetCode_#八皇后问题【lsq_0429】" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode_#八皇后问题【lsq_0429】" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="409" height="438" key="DebuggerActiveHint" timestamp="1588078472631">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="380" y="109" key="CommitChangelistDialog2" timestamp="1588147983499">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="380" y="109" key="CommitChangelistDialog2/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588147983499" />
+    <state width="504" height="585" key="DebuggerActiveHint" timestamp="1588148970204">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="409" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1588078472631" />
+    <state width="504" height="585" key="DebuggerActiveHint/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588148970204" />
     <state x="546" y="259" key="Github.ShareDialog" timestamp="1587946022817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -120,38 +186,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="505" y="70" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587946029933" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1588079035034">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1638" height="235" key="GridCell.Tab.0.bottom" timestamp="1588149047915">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588079035034" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1588079035034">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1638" height="235" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588149047915" />
+    <state width="1638" height="235" key="GridCell.Tab.0.center" timestamp="1588149047914">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588079035034" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1588079035034">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1638" height="235" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588149047914" />
+    <state width="1638" height="235" key="GridCell.Tab.0.left" timestamp="1588149047914">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588079035034" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1588079035034">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1638" height="235" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588149047914" />
+    <state width="1638" height="235" key="GridCell.Tab.0.right" timestamp="1588149047915">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588079035034" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1588078935585">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1638" height="235" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588149047915" />
+    <state width="1638" height="235" key="GridCell.Tab.1.bottom" timestamp="1588149047981">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588078935585" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1588078935584">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1638" height="235" key="GridCell.Tab.1.bottom/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588149047981" />
+    <state width="1638" height="235" key="GridCell.Tab.1.center" timestamp="1588149047981">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588078935584" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1588078935584">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1638" height="235" key="GridCell.Tab.1.center/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588149047981" />
+    <state width="1638" height="235" key="GridCell.Tab.1.left" timestamp="1588149047980">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588078935584" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1588078935585">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1638" height="235" key="GridCell.Tab.1.left/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588149047980" />
+    <state width="1638" height="235" key="GridCell.Tab.1.right" timestamp="1588149047981">
+      <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588078935585" />
+    <state width="1638" height="235" key="GridCell.Tab.1.right/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588149047981" />
+    <state x="440" y="250" key="Vcs.Push.Dialog.v2" timestamp="1588147985135">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="440" y="250" key="Vcs.Push.Dialog.v2/1680.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1588147985135" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -160,6 +238,21 @@
           <url>file://$PROJECT_DIR$/src/com/learn/algorithm/Subject_assign_cookies_455.java</url>
           <line>25</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/learn/algorithm/Subject_n_queens_51.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/learn/algorithm/BaHuangHou.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/learn/algorithm/Subject_majorityElement_169.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
